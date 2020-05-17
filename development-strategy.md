@@ -59,7 +59,7 @@ __As a site visitor, I want to learn more about Tiago__
 
 ### Repo
 
-This user story was developed on a brach called `3-Akader`
+This user story was developed on a brach called `3-Gelila`
 
 ### tiago.md
 
@@ -77,7 +77,7 @@ __As a site visitor, I want to learn more about Mert__
 
 ### Repo
 
-This user story was developed on a brach called `4-Gelila`
+This user story was developed on a brach called `4-Fatih`
 
 ### mert.md
 
@@ -95,7 +95,7 @@ __As a site visitor, I want to learn more about Joel__
 
 ### Repo
 
-This user story was developed on a brach called `5-Fatih`
+This user story was developed on a brach called `5-Mohammad`
 
 ### joel.md
 
@@ -107,6 +107,10 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 6. Finishing Touches
+
+## 6. User Story: introducing myself
+
+
+## 7. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
